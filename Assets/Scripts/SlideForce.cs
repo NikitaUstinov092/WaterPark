@@ -15,9 +15,14 @@ public class SlideForce : MonoBehaviour
 
     [SerializeField] 
     private Transform _lookTarget;
+
+    [SerializeField] 
+    private Transform _pelvis;
     
     [SerializeField]
     private Rigidbody rb;
+
+   
     
     private void FixedUpdate()
     {
@@ -26,11 +31,27 @@ public class SlideForce : MonoBehaviour
 
     private void ApplyForce()
     {
-        // Определяем направление силы
         Vector3 forceDirection = DetermineForceDirection();
         
-        // Применяем силу к объекту
+        Debug.Log(_pelvis.rotation.y );
+        // Проверяем, не перевернут ли объект
+        /*if (IsUpsideDown())
+        {
+            Debug.Log("Перевёртышь");
+          //  forceDirection = -forceDirection; // Инвертируем направление силы, если объект перевернут
+        }*/
+
         rb.AddForce(forceDirection * forceMagnitude);
+    }
+
+    private bool IsUpsideDown()
+    {
+        if(_pelvis.rotation.eulerAngles.y > 180)
+        {
+            return true;
+        }
+
+        return false;
     }
 
     private Vector3 DetermineForceDirection()
@@ -52,9 +73,10 @@ public class SlideForce : MonoBehaviour
            // Debug.Log("forceDirectionLookFront");
             return forceDirectionLookFront;
         }
-        //  Debug.Log("forceDirectionLookBack");
+        //Debug.Log("forceDirectionLookBack");
         
         return forceDirectionLookBack;
         
     }
+    
 }
