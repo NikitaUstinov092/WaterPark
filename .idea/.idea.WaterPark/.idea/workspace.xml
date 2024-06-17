@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db0985bd-f882-4d34-88e3-b513ea03b853" name="Default Changelist" comment="" />
+    <list default="true" id="db0985bd-f882-4d34-88e3-b513ea03b853" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SlideForce.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SlideForce.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Waterpark/exampe_scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Waterpark/exampe_scene.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -23,6 +32,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -55,6 +65,7 @@
       <updated>1718618383903</updated>
       <workItem from="1718618387282" duration="81000" />
       <workItem from="1718618487461" duration="10000" />
+      <workItem from="1718621990091" duration="5437000" />
     </task>
     <servers />
   </component>
@@ -65,5 +76,11 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1304" y="159" key="run.anything.popup" timestamp="1718631626400">
+      <screen x="-1920" y="-163" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="159" key="run.anything.popup/0.0.1536.824/-1920.-163.1920.1040@-1920.-163.1920.1040" timestamp="1718631626400" />
   </component>
 </project>

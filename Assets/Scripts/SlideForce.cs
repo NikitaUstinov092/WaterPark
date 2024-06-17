@@ -3,6 +3,18 @@ using UnityEngine;
 public class SlideForce : MonoBehaviour
 {
     public float forceMagnitude = 10f;  // Мощность силы, которую будем применять
+
+    [SerializeField]
+    private float _angle = 70f;
+    
+    [SerializeField]
+    private Vector3 forceDirectionLookFront;
+    
+    [SerializeField]
+    private Vector3 forceDirectionLookBack;
+
+    [SerializeField] 
+    private Transform _lookTarget;
     
     [SerializeField]
     private Rigidbody rb;
@@ -14,18 +26,35 @@ public class SlideForce : MonoBehaviour
 
     private void ApplyForce()
     {
-        // Применяем силу вниз по наклону горки
-        Vector3 forceDirection = Vector3.forward;
-
-        // Проверяем, есть ли наклон, чтобы применить силу в нужном направлении
-        RaycastHit hit;
-        if (Physics.Raycast(transform.position, Vector3.down, out hit))
-        {
-            forceDirection = Vector3.ProjectOnPlane(Vector3.down, hit.normal).normalized;
-        }
-
-        // Применяем силу к кукле
+        // Определяем направление силы
+        Vector3 forceDirection = DetermineForceDirection();
+        
+        // Применяем силу к объекту
         rb.AddForce(forceDirection * forceMagnitude);
     }
-}
 
+    private Vector3 DetermineForceDirection()
+    {
+        // Вектор от объекта к цели
+        Vector3 toTarget = _lookTarget.position - rb.transform.position;
+        
+        toTarget.Normalize();
+
+        // Направление, куда смотрит объект
+        Vector3 forward = rb.transform.forward;
+
+        // Угол между направлением взгляда объекта и вектором к цели
+        var angle = Vector3.Angle(forward, toTarget);
+
+        // Если объект смотрит в сторону цели (условно, если угол меньше 90 градусов)
+        if (angle < _angle)
+        {
+           // Debug.Log("forceDirectionLookFront");
+            return forceDirectionLookFront;
+        }
+        //  Debug.Log("forceDirectionLookBack");
+        
+        return forceDirectionLookBack;
+        
+    }
+}
