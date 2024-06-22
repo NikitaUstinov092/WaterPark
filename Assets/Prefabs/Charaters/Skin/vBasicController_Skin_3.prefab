@@ -1868,6 +1868,7 @@ GameObject:
   - component: {fileID: 4901776502904310365}
   - component: {fileID: 5559503405277998605}
   - component: {fileID: 5693458818268111934}
+  - component: {fileID: 6191158398551835612}
   m_Layer: 0
   m_Name: vBasicController_Skin_3
   m_TagString: Player
@@ -2035,6 +2036,19 @@ CapsuleCollider:
   m_Height: 3.75
   m_Direction: 1
   m_Center: {x: 0, y: 1.9, z: 0}
+--- !u!114 &6191158398551835612
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4543642261878056638}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27311ba14dcad9c4597631f4bdc8d0d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _doll: {fileID: 4754704221195743781, guid: 34c171cb974f5b94285f7fe942742192, type: 3}
 --- !u!1 &4920150021743853461
 GameObject:
   m_ObjectHideFlags: 0
