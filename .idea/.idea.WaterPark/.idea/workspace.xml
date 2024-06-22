@@ -22,23 +22,9 @@
     <list default="true" id="db0985bd-f882-4d34-88e3-b513ea03b853" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Charaters/Skin/vBasicController_Skin_3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Charaters/Skin/vBasicController_Skin_3.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Charaters/Slender/vBasicController_Model1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Charaters/Slender/vBasicController_Model1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Charaters/Slender/Doll/SlenderDoll.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Charaters/Slender/Doll/SlenderDoll.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scene/exampe_scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/exampe_scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScriptbleObjects/CharacterData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScriptbleObjects/CharacterData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScriptbleObjects/Skin.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScriptbleObjects/Skin.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScriptbleObjects/Slender.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScriptbleObjects/Slender.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SlideForce.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SlideForce.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SlideForceCustom.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SlideForceCustom.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SlideTrigger.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SlideTrigger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RideZone/SlideForceCustom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RideZone/SlideForceCustom.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +42,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActionZone/PlayerStorage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SelectZone/Submitter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActionZone/ViewManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RideZone/TriggerWater.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -81,6 +68,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ActionZone/Mediator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ActionZone/ViewManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RideZone/RideTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RideZone/SlideForceCustom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RideZone/TriggerWater.cs" />
       </list>
     </option>
   </component>
@@ -131,7 +120,8 @@
       <workItem from="1718621990091" duration="10157000" />
       <workItem from="1718731070123" duration="2261000" />
       <workItem from="1719045340913" duration="6217000" />
-      <workItem from="1719051794681" duration="2472000" />
+      <workItem from="1719051794681" duration="3069000" />
+      <workItem from="1719058215928" duration="1360000" />
     </task>
     <servers />
   </component>

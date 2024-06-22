@@ -23,6 +23,8 @@ public class SlideForceCustom : MonoBehaviour, ISetForceDirection
 
     private void ApplyForce()
     {
+        if(_forceMagnitude<=0)
+            return;
         rb.AddForce(_forceDirection * _forceMagnitude);
     }
 

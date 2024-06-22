@@ -343,6 +343,7 @@
             <e p="SlideForce.cs" t="Include" />
             <e p="SlideForceCustom.cs" t="Include" />
             <e p="SlideTrigger.cs" t="Include" />
+            <e p="TriggerWater.cs" t="Include" />
           </e>
           <e p="ScriptbleObjects" t="Include">
             <e p="Selected" t="Include">
