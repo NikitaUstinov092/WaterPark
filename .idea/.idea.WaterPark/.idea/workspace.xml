@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db0985bd-f882-4d34-88e3-b513ea03b853" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WaterPark/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Charaters/Skin/Doll/Skin_Doll.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Charaters/Skin/Doll/Skin_Doll.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Charaters/Slender/Doll/SlenderDoll.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Charaters/Slender/Doll/SlenderDoll.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Charaters/Slender/vBasicController_Model1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Charaters/Slender/vBasicController_Model1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene/exampe_scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/exampe_scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RideZone/SlideTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RideZone/SlideTrigger.cs" afterDir="false" />
-    </list>
+    <list default="true" id="db0985bd-f882-4d34-88e3-b513ea03b853" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +128,7 @@
       <workItem from="1719051794681" duration="3069000" />
       <workItem from="1719058215928" duration="1360000" />
       <workItem from="1719134860934" duration="9260000" />
-      <workItem from="1719147506475" duration="454000" />
+      <workItem from="1719147506475" duration="1050000" />
     </task>
     <servers />
   </component>
