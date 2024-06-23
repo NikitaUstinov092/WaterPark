@@ -170,7 +170,7 @@ GameObject:
   - component: {fileID: 6759784615678957811}
   - component: {fileID: 7111853530449416759}
   - component: {fileID: 3478803739122860330}
-  - component: {fileID: 5220540305377639596}
+  - component: {fileID: 8690968992729522447}
   m_Layer: 0
   m_Name: cm
   m_TagString: Untagged
@@ -227,7 +227,7 @@ MonoBehaviour:
   m_YawDamping: 0
   m_RollDamping: 0
   m_AngularDamping: 0
---- !u!114 &5220540305377639596
+--- !u!114 &8690968992729522447
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -236,9 +236,24 @@ MonoBehaviour:
   m_GameObject: {fileID: 530394796324576735}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e8b78ac948f05a46a6d8339a503172b, type: 3}
+  m_Script: {fileID: 11500000, guid: f4044717213e31446939f7bd49c896ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_TrackedObjectOffset: {x: 0, y: 0, z: 0}
+  m_LookaheadTime: 0
+  m_LookaheadSmoothing: 0
+  m_LookaheadIgnoreY: 0
+  m_HorizontalDamping: 0.5
+  m_VerticalDamping: 0.5
+  m_ScreenX: 0.5
+  m_ScreenY: 0.5
+  m_DeadZoneWidth: 0
+  m_DeadZoneHeight: 0
+  m_SoftZoneWidth: 0.8
+  m_SoftZoneHeight: 0.8
+  m_BiasX: 0
+  m_BiasY: 0
+  m_CenterOnActivate: 1
 --- !u!1 &569011294776493042
 GameObject:
   m_ObjectHideFlags: 0
@@ -1527,7 +1542,7 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.06
+  m_Radius: 0.04
   m_Height: 0.4809923
   m_Direction: 0
   m_Center: {x: 0.24049614, y: 0, z: 0}
@@ -2268,7 +2283,7 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.06
+  m_Radius: 0.03
   m_Height: 0.44431388
   m_Direction: 0
   m_Center: {x: 0.22215694, y: 0, z: 0}
@@ -2892,7 +2907,7 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.06
+  m_Radius: 0.03
   m_Height: 0.44431296
   m_Direction: 0
   m_Center: {x: -0.22215648, y: 0, z: 0}
@@ -3055,7 +3070,7 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.06
+  m_Radius: 0.04
   m_Height: 0.4809911
   m_Direction: 0
   m_Center: {x: -0.24049555, y: 0, z: 0}
@@ -3860,7 +3875,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7546188744056572102}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.62303996, y: 0.6499907, z: 0.27841002, w: 0.3343969}
+  m_LocalRotation: {x: 0.6230399, y: 0.6499907, z: 0.27841005, w: 0.33439687}
   m_LocalPosition: {x: -10, y: 2.7562933, z: 7.9267483}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0

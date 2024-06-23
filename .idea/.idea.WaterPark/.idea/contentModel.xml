@@ -348,6 +348,7 @@
             <e p="RideTrigger.cs" t="Include" />
             <e p="SlideForce.cs" t="Include" />
             <e p="SlideTrigger.cs" t="Include" />
+            <e p="SlideTriggerSetuper.cs" t="Include" />
             <e p="TriggerWater.cs" t="Include" />
           </e>
           <e p="ScriptbleObjects" t="Include">
