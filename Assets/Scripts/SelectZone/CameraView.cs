@@ -12,7 +12,6 @@ public class CameraView : MonoBehaviour
     {
         _characterIdStorage.OnValueChanged += SwitchCamera;
     }
-    
     private void OnDisable()
     {
         _characterIdStorage.OnValueChanged -= SwitchCamera;

@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 6472891670884681975}
   m_Layer: 0
   m_Name: shin.R
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -173,7 +173,7 @@ GameObject:
   - component: {fileID: 929039355975107426}
   m_Layer: 0
   m_Name: Tentacle
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -464,7 +464,7 @@ GameObject:
   - component: {fileID: 3492387299178970234}
   m_Layer: 0
   m_Name: thigh.R
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -973,7 +973,7 @@ GameObject:
   - component: {fileID: 824583838638104409}
   m_Layer: 0
   m_Name: foot.L
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1068,7 +1068,7 @@ GameObject:
   - component: {fileID: 6931889904488572573}
   m_Layer: 0
   m_Name: shoulder.L
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10162,7 +10162,7 @@ GameObject:
   - component: {fileID: 3751441255449978361}
   m_Layer: 0
   m_Name: toe.L_end
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10350,7 +10350,7 @@ GameObject:
   - component: {fileID: 3414492295687920545}
   m_Layer: 0
   m_Name: spine
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10621,7 +10621,7 @@ GameObject:
   - component: {fileID: 5837206089123825388}
   m_Layer: 0
   m_Name: toe.L
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10719,7 +10719,7 @@ GameObject:
   - component: {fileID: 2025034430590974218}
   m_Layer: 0
   m_Name: thigh.L
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10978,7 +10978,7 @@ GameObject:
   - component: {fileID: 827690444126855848}
   m_Layer: 0
   m_Name: SlenderDoll
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11108,7 +11108,7 @@ GameObject:
   - component: {fileID: 1505565600890026364}
   m_Layer: 0
   m_Name: Slender
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11257,7 +11257,7 @@ GameObject:
   - component: {fileID: 1631401509107973920}
   m_Layer: 0
   m_Name: chest1
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11554,7 +11554,7 @@ GameObject:
   - component: {fileID: 6698381546704917962}
   m_Layer: 0
   m_Name: upper_arm.R
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11717,7 +11717,7 @@ GameObject:
   - component: {fileID: 7228875259825043738}
   m_Layer: 0
   m_Name: chest
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14382,7 +14382,7 @@ GameObject:
   - component: {fileID: 4093701567685856856}
   m_Layer: 0
   m_Name: shin.L
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14541,7 +14541,7 @@ GameObject:
   - component: {fileID: 5819532619166835304}
   m_Layer: 0
   m_Name: 'Slender '
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14941,7 +14941,7 @@ GameObject:
   - component: {fileID: 2484532906881913059}
   m_Layer: 0
   m_Name: hips
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15165,7 +15165,7 @@ GameObject:
   - component: {fileID: 4741122726144634201}
   m_Layer: 0
   m_Name: neck
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15261,7 +15261,7 @@ GameObject:
   - component: {fileID: 129983319769097458}
   m_Layer: 0
   m_Name: shoulder.R
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15368,7 +15368,7 @@ GameObject:
   - component: {fileID: 1971972793290956335}
   m_Layer: 0
   m_Name: upper_arm.L
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -332,16 +332,21 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="ActionZone" t="Include">
+            <e p="Adapter.cs" t="Include" />
             <e p="Mediator.cs" t="Include" />
             <e p="PlayerFactory.cs" t="Include" />
             <e p="PlayerStorage.cs" t="Include" />
-            <e p="ViewManager.cs" t="Include" />
+            <e p="StateManager.cs" t="Include" />
+          </e>
+          <e p="Common" t="Include">
+            <e p="OnTriggerEvent.cs" t="Include" />
           </e>
           <e p="RideZone" t="Include">
             <e p="DollData.cs" t="Include" />
+            <e p="DollStorage.cs" t="Include" />
+            <e p="ForceManager.cs" t="Include" />
             <e p="RideTrigger.cs" t="Include" />
             <e p="SlideForce.cs" t="Include" />
-            <e p="SlideForceCustom.cs" t="Include" />
             <e p="SlideTrigger.cs" t="Include" />
             <e p="TriggerWater.cs" t="Include" />
           </e>

@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 public class Mediator : MonoBehaviour
@@ -7,13 +6,24 @@ public class Mediator : MonoBehaviour
     private PlayerFactory _playerFactory;
     
     [SerializeField] 
-    private ViewManager _viewManager;
+    private StateManager stateManager;
+
+    [SerializeField] 
+    private Adapter _adapter;
+    
+    [SerializeField] 
+    private ForceManager _forceManager;
+    
     private void Awake()
     {
       var playerStorage = new PlayerStorage();
-      _playerFactory.Construct(playerStorage);
-      _viewManager.Construct(playerStorage);
+      var dollStorage = new DollStorage();
+      
+      dollStorage.Construct(_playerFactory);
+      playerStorage.Construct(_playerFactory);
+      
+      _adapter.Construct(dollStorage);
+      stateManager.Construct(playerStorage, dollStorage);
+      _forceManager.Construct(dollStorage);
     }
-    
-    
 }

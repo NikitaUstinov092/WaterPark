@@ -1,26 +1,25 @@
 using UnityEngine;
 
-public class SlideForce : MonoBehaviour
+public class SlideForce : MonoBehaviour, ISetForceDirection
 {
-    public float forceMagnitude = 10f;  // Мощность силы, которую будем применять
-
     [SerializeField]
-    private float _angle = 70f;
-    
-    [SerializeField]
-    private Vector3 forceDirectionLookFront;
-    
-    [SerializeField]
-    private Vector3 forceDirectionLookBack;
-
-    [SerializeField] 
-    private Transform _lookTarget;
-
-    [SerializeField] 
-    private Transform _pelvis;
+    private float _forceMagnitude = 70f;
     
     [SerializeField]
     private Rigidbody rb;
+
+    [SerializeField] 
+    private Vector3 _forceDirection;
+
+    void ISetForceDirection.SetDirection(Vector3 direction)
+    {
+        _forceDirection = direction;
+    }
+
+    public void SetMagnitude(float value)
+    {
+        _forceMagnitude = value;
+    }
     
     private void FixedUpdate()
     {
@@ -29,33 +28,15 @@ public class SlideForce : MonoBehaviour
 
     private void ApplyForce()
     {
-        Vector3 forceDirection = DetermineForceDirection();
-
-        rb.AddForce(forceDirection * forceMagnitude);
+        if(_forceMagnitude<=0)
+            return;
+        
+        rb.AddForce(_forceDirection * _forceMagnitude);
     }
 
-   
-    private Vector3 DetermineForceDirection()
-    {
-        // Вектор от объекта к цели
-        Vector3 toTarget = _lookTarget.position - rb.transform.position;
-        
-        toTarget.Normalize();
+}
 
-        // Направление, куда смотрит объект
-        Vector3 forward = rb.transform.forward;
-
-        // Угол между направлением взгляда объекта и вектором к цели
-        var angle = Vector3.Angle(forward, toTarget);
-
-        // Если объект смотрит в сторону цели (условно, если угол меньше 90 градусов)
-        if (angle < _angle)
-        {
-           // Debug.Log("forceDirectionLookFront");
-            return forceDirectionLookFront;
-        }
-        //Debug.Log("forceDirectionLookBack");
-        
-        return forceDirectionLookBack;
-    }
+public interface ISetForceDirection
+{
+    void SetDirection(Vector3 direction);
 }

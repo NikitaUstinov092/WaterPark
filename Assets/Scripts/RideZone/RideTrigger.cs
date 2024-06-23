@@ -1,9 +1,9 @@
+using System;
 using UnityEngine;
 
 public class RideTrigger : MonoBehaviour
 {
-    [SerializeField]
-    private ViewManager _playerStorage;
+    public event Action<GameObject, Transform> OnCatchRideable;
 
     [SerializeField] 
     private Transform _spawnPoint;
@@ -11,9 +11,7 @@ public class RideTrigger : MonoBehaviour
     {
         if (other.TryGetComponent(out IRideable rideable))
         {
-           var doll = rideable.GetDoll();
-           Instantiate(doll, _spawnPoint.position, _spawnPoint.rotation);
-           _playerStorage.SwitchViewOnDoll();
+            OnCatchRideable?.Invoke( rideable.GetDoll(), _spawnPoint);
         }
     }
 }

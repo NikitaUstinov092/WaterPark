@@ -4,14 +4,11 @@ using UnityEngine.UI;
 
 public class Submitter : MonoBehaviour
 {
-    public UnityEvent OnSubmit;
+    public UnityEvent<CharacterData> OnSubmit;
     
     [SerializeField]
     private SelectedCharacterStorage _selectedCharacterStorage;
-
-    [SerializeField] 
-    private PlayerFactory _playerFactory;
-
+    
     [SerializeField] 
     private Button _buttonSubmit;
 
@@ -24,9 +21,7 @@ public class Submitter : MonoBehaviour
         _buttonSubmit.onClick.RemoveListener(Submit);
     }
     private void Submit()
-    { 
-        _playerFactory.CreatePlayer(_selectedCharacterStorage.SelectedCharacter); 
-       OnSubmit?.Invoke();
+    {
+        OnSubmit?.Invoke(_selectedCharacterStorage.SelectedCharacter);
     }
-
 }

@@ -7,6 +7,7 @@ public class TriggerWater : MonoBehaviour
    {
       if (!other.TryGetComponent(out Rigidbody rb)) 
          return;
+      
       rb.drag = DRAG;
    }
 }

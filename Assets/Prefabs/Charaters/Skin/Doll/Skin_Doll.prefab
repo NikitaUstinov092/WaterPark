@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8348362580634906653}
   m_Layer: 0
   m_Name: ring_03_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42,7 +42,7 @@ GameObject:
   - component: {fileID: 5619883603811363223}
   m_Layer: 0
   m_Name: pinky_01_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -74,7 +74,7 @@ GameObject:
   - component: {fileID: 8916364041998711301}
   m_Layer: 0
   m_Name: neck_01
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -106,7 +106,7 @@ GameObject:
   - component: {fileID: 8291813881045660991}
   m_Layer: 0
   m_Name: middle_01_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 8638505117279427989}
   m_Layer: 0
   m_Name: clavicle_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -250,7 +250,7 @@ GameObject:
   - component: {fileID: 8804287784571510202}
   m_Layer: 0
   m_Name: Character1_Ctrl_RightShoulderEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -281,7 +281,7 @@ GameObject:
   - component: {fileID: 5500996953637653412}
   m_Layer: 0
   m_Name: middle_03_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -312,7 +312,7 @@ GameObject:
   - component: {fileID: 5637114945467741541}
   m_Layer: 0
   m_Name: pinky_01_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -344,7 +344,7 @@ GameObject:
   - component: {fileID: 3125138226723239584}
   m_Layer: 0
   m_Name: index_02_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -376,7 +376,7 @@ GameObject:
   - component: {fileID: 3227185106082704681}
   m_Layer: 0
   m_Name: Character1_Ctrl_Spine
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -408,7 +408,7 @@ GameObject:
   - component: {fileID: 1924581541792266521}
   m_Layer: 0
   m_Name: Character1_Ctrl_LeftKneeEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -439,7 +439,7 @@ GameObject:
   - component: {fileID: 6558726136235393071}
   m_Layer: 0
   m_Name: Character1_Ctrl_HeadEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -470,7 +470,7 @@ GameObject:
   - component: {fileID: 2781055322221894987}
   m_Layer: 0
   m_Name: Character1_Ctrl_LeftHand
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -504,7 +504,7 @@ GameObject:
   - component: {fileID: 2674771863874080655}
   m_Layer: 0
   m_Name: spine_01
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -630,7 +630,7 @@ GameObject:
   - component: {fileID: 4192197215493161896}
   m_Layer: 0
   m_Name: Character1_Ctrl_ChestEndEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -661,7 +661,7 @@ GameObject:
   - component: {fileID: 2280348937959772966}
   m_Layer: 0
   m_Name: thumb_02_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -696,7 +696,7 @@ GameObject:
   - component: {fileID: 867492493753495831}
   m_Layer: 0
   m_Name: pelvis
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -793,7 +793,7 @@ GameObject:
   - component: {fileID: 437935423155582652}
   m_Layer: 0
   m_Name: ball_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -824,7 +824,7 @@ GameObject:
   - component: {fileID: 6708628469845288986}
   m_Layer: 0
   m_Name: Character1_Ctrl_LeftFoot
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -855,7 +855,7 @@ GameObject:
   - component: {fileID: 3337828644532395978}
   m_Layer: 0
   m_Name: thigh_twist_01_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -886,7 +886,7 @@ GameObject:
   - component: {fileID: 4028936273034854547}
   m_Layer: 0
   m_Name: spine_03
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -920,7 +920,7 @@ GameObject:
   - component: {fileID: 1924555630842542383}
   m_Layer: 0
   m_Name: Character1_Ctrl_RightArm
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -952,7 +952,7 @@ GameObject:
   - component: {fileID: 4665977881535115119}
   m_Layer: 0
   m_Name: Character1_Ctrl_LeftHipEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -983,7 +983,7 @@ GameObject:
   - component: {fileID: 8605771635896585481}
   m_Layer: 0
   m_Name: thumb_02_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1018,7 +1018,7 @@ GameObject:
   - component: {fileID: 5089580914503706015}
   m_Layer: 0
   m_Name: lowerarm_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1148,7 +1148,7 @@ GameObject:
   - component: {fileID: 4628361979605931081}
   m_Layer: 0
   m_Name: Body_4_2
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1293,7 +1293,7 @@ GameObject:
   - component: {fileID: 121485517910600994}
   m_Layer: 0
   m_Name: spine_02
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1325,7 +1325,7 @@ GameObject:
   - component: {fileID: 8621308798522846141}
   m_Layer: 0
   m_Name: Character1_Ctrl_RightLeg
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1357,7 +1357,7 @@ GameObject:
   - component: {fileID: 7834209431013432426}
   m_Layer: 0
   m_Name: thumb_03_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1388,7 +1388,7 @@ GameObject:
   - component: {fileID: 7492699717297642156}
   m_Layer: 0
   m_Name: Character1_Ctrl_RightHand
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1419,7 +1419,7 @@ GameObject:
   - component: {fileID: 4816137855302486887}
   m_Layer: 0
   m_Name: ring_01_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1451,7 +1451,7 @@ GameObject:
   - component: {fileID: 1683344503475066895}
   m_Layer: 0
   m_Name: root
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1486,7 +1486,7 @@ GameObject:
   - component: {fileID: 378077392922902420}
   m_Layer: 0
   m_Name: calf_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1615,7 +1615,7 @@ GameObject:
   - component: {fileID: 7578107326185879967}
   m_Layer: 0
   m_Name: Character1_Ctrl_LeftElbowEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1646,7 +1646,7 @@ GameObject:
   - component: {fileID: 8037446786559014932}
   m_Layer: 0
   m_Name: Character1_Ctrl_LeftAnkleEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1677,7 +1677,7 @@ GameObject:
   - component: {fileID: 7814520085643952633}
   m_Layer: 0
   m_Name: thigh_twist_01_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1708,7 +1708,7 @@ GameObject:
   - component: {fileID: 4403307313727278558}
   m_Layer: 0
   m_Name: Skin_Doll
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1743,7 +1743,7 @@ GameObject:
   - component: {fileID: 3170860619699367489}
   m_Layer: 0
   m_Name: Character1_Ctrl_RightAnkleEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1774,7 +1774,7 @@ GameObject:
   - component: {fileID: 8720041342994433889}
   m_Layer: 0
   m_Name: Character1_Ctrl_LeftWristEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1805,7 +1805,7 @@ GameObject:
   - component: {fileID: 7885182923307649063}
   m_Layer: 0
   m_Name: index_03_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1836,7 +1836,7 @@ GameObject:
   - component: {fileID: 1363906052220718543}
   m_Layer: 0
   m_Name: lowerarm_twist_01_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1867,7 +1867,7 @@ GameObject:
   - component: {fileID: 4783972309003599566}
   m_Layer: 0
   m_Name: hand_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1903,7 +1903,7 @@ GameObject:
   - component: {fileID: 8513278438063539725}
   m_Layer: 0
   m_Name: index_01_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1935,7 +1935,7 @@ GameObject:
   - component: {fileID: 5974667999520285273}
   m_Layer: 0
   m_Name: Character1_Ctrl_RightElbowEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1966,7 +1966,7 @@ GameObject:
   - component: {fileID: 3804424548430381997}
   m_Layer: 0
   m_Name: thumb_03_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1997,7 +1997,7 @@ GameObject:
   - component: {fileID: 2423404432102693196}
   m_Layer: 0
   m_Name: Character1_Ctrl_LeftLeg
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2032,7 +2032,7 @@ GameObject:
   - component: {fileID: 2079306961302061649}
   m_Layer: 0
   m_Name: upperarm_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2161,7 +2161,7 @@ GameObject:
   - component: {fileID: 4579064298533550510}
   m_Layer: 0
   m_Name: Character1_Ctrl_LeftShoulderEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2192,7 +2192,7 @@ GameObject:
   - component: {fileID: 274613150139524491}
   m_Layer: 0
   m_Name: pinky_02_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2227,7 +2227,7 @@ GameObject:
   - component: {fileID: 6307601316058978870}
   m_Layer: 0
   m_Name: thigh_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2356,7 +2356,7 @@ GameObject:
   - component: {fileID: 870050266215781967}
   m_Layer: 0
   m_Name: Character1_Ctrl_HipsEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2387,7 +2387,7 @@ GameObject:
   - component: {fileID: 4114756721632430978}
   m_Layer: 0
   m_Name: Character1_Ctrl_Neck
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2419,7 +2419,7 @@ GameObject:
   - component: {fileID: 4572478160927368885}
   m_Layer: 0
   m_Name: middle_02_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2451,7 +2451,7 @@ GameObject:
   - component: {fileID: 5315464272883974157}
   m_Layer: 0
   m_Name: Character1_Ctrl_RightUpLeg
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2483,7 +2483,7 @@ GameObject:
   - component: {fileID: 7574712606707446840}
   m_Layer: 0
   m_Name: foot_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2515,7 +2515,7 @@ GameObject:
   - component: {fileID: 2780395441389049842}
   m_Layer: 0
   m_Name: Character1_Ctrl_Spine1
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2547,7 +2547,7 @@ GameObject:
   - component: {fileID: 6376540144767428000}
   m_Layer: 0
   m_Name: Character1_Ctrl_Reference
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2595,7 +2595,7 @@ GameObject:
   - component: {fileID: 1256157989609952207}
   m_Layer: 0
   m_Name: Character1_Ctrl_ChestOriginEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2626,7 +2626,7 @@ GameObject:
   - component: {fileID: 8705892487908000277}
   m_Layer: 0
   m_Name: calf_twist_01_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2657,7 +2657,7 @@ GameObject:
   - component: {fileID: 7138317130686921654}
   m_Layer: 0
   m_Name: ring_03_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2688,7 +2688,7 @@ GameObject:
   - component: {fileID: 1420152881615760682}
   m_Layer: 0
   m_Name: Character1_Ctrl_Head
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2719,7 +2719,7 @@ GameObject:
   - component: {fileID: 5752984475037074846}
   m_Layer: 0
   m_Name: hand_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2755,7 +2755,7 @@ GameObject:
   - component: {fileID: 4105065351953415115}
   m_Layer: 0
   m_Name: Character1_Ctrl_RightKneeEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2786,7 +2786,7 @@ GameObject:
   - component: {fileID: 2326594823080790248}
   m_Layer: 0
   m_Name: calf_twist_01_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2817,7 +2817,7 @@ GameObject:
   - component: {fileID: 3837726043101123986}
   m_Layer: 0
   m_Name: upperarm_twist_01_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2851,7 +2851,7 @@ GameObject:
   - component: {fileID: 4776214392840121751}
   m_Layer: 0
   m_Name: thigh_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2980,7 +2980,7 @@ GameObject:
   - component: {fileID: 7585372340431061986}
   m_Layer: 0
   m_Name: Character1_Ctrl_RightFoot
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3014,7 +3014,7 @@ GameObject:
   - component: {fileID: 756905518790499026}
   m_Layer: 0
   m_Name: calf_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3143,7 +3143,7 @@ GameObject:
   - component: {fileID: 2266509737955829505}
   m_Layer: 0
   m_Name: pinky_03_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3174,7 +3174,7 @@ GameObject:
   - component: {fileID: 6052856702804724205}
   m_Layer: 0
   m_Name: Character1_Ctrl_RightWristEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3205,7 +3205,7 @@ GameObject:
   - component: {fileID: 2800172061577473851}
   m_Layer: 0
   m_Name: Character1_Ctrl_LeftForeArm
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3237,7 +3237,7 @@ GameObject:
   - component: {fileID: 22922261761912911}
   m_Layer: 0
   m_Name: Character1_Ctrl_LeftArm
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3272,7 +3272,7 @@ GameObject:
   - component: {fileID: 3583338035713994445}
   m_Layer: 0
   m_Name: upperarm_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3401,7 +3401,7 @@ GameObject:
   - component: {fileID: 5898090742106726610}
   m_Layer: 0
   m_Name: Character1_Ctrl_RightForeArm
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3433,7 +3433,7 @@ GameObject:
   - component: {fileID: 797992170977310178}
   m_Layer: 0
   m_Name: lowerarm_twist_01_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3464,7 +3464,7 @@ GameObject:
   - component: {fileID: 5246696894320839870}
   m_Layer: 0
   m_Name: middle_02_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3496,7 +3496,7 @@ GameObject:
   - component: {fileID: 7872023669382461025}
   m_Layer: 0
   m_Name: Character1_Ctrl_RightShoulder
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3528,7 +3528,7 @@ GameObject:
   - component: {fileID: 7985746454887539760}
   m_Layer: 0
   m_Name: thumb_01_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3560,7 +3560,7 @@ GameObject:
   - component: {fileID: 370282107718588335}
   m_Layer: 0
   m_Name: index_03_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3591,7 +3591,7 @@ GameObject:
   - component: {fileID: 2142847061002863993}
   m_Layer: 0
   m_Name: middle_03_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3625,7 +3625,7 @@ GameObject:
   - component: {fileID: 7476600045076724619}
   m_Layer: 0
   m_Name: head
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3750,7 +3750,7 @@ GameObject:
   - component: {fileID: 5803708902676837696}
   m_Layer: 0
   m_Name: ring_01_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3782,7 +3782,7 @@ GameObject:
   - component: {fileID: 3839187846082909148}
   m_Layer: 0
   m_Name: ring_02_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3814,7 +3814,7 @@ GameObject:
   - component: {fileID: 9118466107058881397}
   m_Layer: 0
   m_Name: pinky_02_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3918,7 +3918,7 @@ GameObject:
   - component: {fileID: 6999551627768053554}
   m_Layer: 0
   m_Name: index_02_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3950,7 +3950,7 @@ GameObject:
   - component: {fileID: 27803787910930366}
   m_Layer: 0
   m_Name: Character1_Ctrl_Hips
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3984,7 +3984,7 @@ GameObject:
   - component: {fileID: 1357359948548524261}
   m_Layer: 0
   m_Name: Character1_Ctrl_LeftUpLeg
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4016,7 +4016,7 @@ GameObject:
   - component: {fileID: 2084581024585938726}
   m_Layer: 0
   m_Name: pinky_03_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4047,7 +4047,7 @@ GameObject:
   - component: {fileID: 6383938503864279802}
   m_Layer: 0
   m_Name: clavicle_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4079,7 +4079,7 @@ GameObject:
   - component: {fileID: 3771002995282241568}
   m_Layer: 0
   m_Name: ring_02_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4111,7 +4111,7 @@ GameObject:
   - component: {fileID: 3820247036031862551}
   m_Layer: 0
   m_Name: upperarm_twist_01_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4142,7 +4142,7 @@ GameObject:
   - component: {fileID: 1082419693045651801}
   m_Layer: 0
   m_Name: index_01_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4177,7 +4177,7 @@ GameObject:
   - component: {fileID: 4344246691231962683}
   m_Layer: 0
   m_Name: lowerarm_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4306,7 +4306,7 @@ GameObject:
   - component: {fileID: 7745659380102386564}
   m_Layer: 0
   m_Name: ball_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4337,7 +4337,7 @@ GameObject:
   - component: {fileID: 789380309239805268}
   m_Layer: 0
   m_Name: foot_r
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4369,7 +4369,7 @@ GameObject:
   - component: {fileID: 5297260401401584391}
   m_Layer: 0
   m_Name: Character1_Ctrl_RightHipEffector
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4400,7 +4400,7 @@ GameObject:
   - component: {fileID: 2577780762256134038}
   m_Layer: 0
   m_Name: Character1_Ctrl_LeftShoulder
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4432,7 +4432,7 @@ GameObject:
   - component: {fileID: 5421400590805571263}
   m_Layer: 0
   m_Name: thumb_01_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4464,7 +4464,7 @@ GameObject:
   - component: {fileID: 1330543810401217712}
   m_Layer: 0
   m_Name: Character1_Ctrl_Spine2
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4498,7 +4498,7 @@ GameObject:
   - component: {fileID: 960321989973017449}
   m_Layer: 0
   m_Name: middle_01_l
-  m_TagString: Untagged
+  m_TagString: Doll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

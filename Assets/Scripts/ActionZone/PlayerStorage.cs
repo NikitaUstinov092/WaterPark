@@ -4,15 +4,20 @@ public class PlayerStorage
 {
     private GameObject _currentPlayer;
     private GameObject _playerCamera;
-
+    private PlayerFactory _playerFactory;
     public GameObject GetCurrentPlayer() => _currentPlayer;
     public GameObject GetCurrentPlayerCamera() => _playerCamera;
-    public GameObject[] GetCurrentData()=> new GameObject[2]{_currentPlayer,_playerCamera};
-    
-    public void SetUp(GameObject currentPlayer, GameObject playerCamera)
+
+    public void Construct(PlayerFactory playerFactory)
     {
-        _currentPlayer = currentPlayer;
-        _playerCamera = playerCamera;
+        _playerFactory = playerFactory;
+    }
+    
+    public void SetUp(CharacterData characterData)
+    {
+        var mass = _playerFactory.CreatePlayer(characterData);
+        _currentPlayer = mass[0];
+        _playerCamera = mass[1];;
     }
     
     public void DestroyData()
